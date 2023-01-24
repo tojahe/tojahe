@@ -5,10 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tojahe&label=Profile%20views&color=0e75b6&style=flat" alt="tojahe" /> </p>
 
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 - 🔭 I’m currently working on **PayRoll system**
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 - 🌱 I’m currently learning **C#**
 
 
