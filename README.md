@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-- 🔭 I’m currently working on **PayRoll system**
+- 🔭 I’m currently working on a **PayRoll system**
 
 - 🌱 I’m currently learning **C#**
 
