@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm tojahe</h1>
 <h3 align="center">I'm a Junior Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tojahe&label=Profile%20views&color=0e75b6&style=flat" alt="tojahe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tojahe" alt="tojahe" /></a> </p>
 
 - 🔭 I’m currently working on **PayRoll system**
-
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 - 🌱 I’m currently learning **C#**
 
 
