@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm tojahe</h1>
+<h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">I'm training to be a Junior Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tojahe&label=Profile%20views&color=0e75b6&style=flat" alt="tojahe" /> </p>
